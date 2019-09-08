@@ -1,0 +1,15 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IsabelleF47/google-books-search.git",
+  "author": "Isabelle Farrell <IFarrell47@yahoo.com>",
+  "license": "MIT",
+  "proxy": "http://localhost:3001",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.13",
+    "path": "^0.12.7"
+  }
+}
